@@ -1,0 +1,29 @@
+_repo: Java-Head_9865
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hergesheimer, Joseph
+    birthdate: 1880
+    deathdate: 1954
+    gutenberg_agent_id: '2218'
+    url: http://www.gutenberg.org/2009/agents/2218
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Hergesheimer
+description: After an extended trip abroad, the son of a Bristol shipping magnate
+  arrives home with a Chinese bride in this 1919 novel of love and betrayal. Told
+  from several different points of view and in a vivid, highly visual style, Java
+  Head is generally considered Hergesheimer's best novel; it became the basis of two
+  acclaimed films.
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9865'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Interracial marriage -- Fiction'
+- GITenberg
+title: Java Head
+url: http://www.gutenberg.org/ebooks/9865
